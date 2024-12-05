@@ -1,0 +1,1 @@
+La gestion de stock es una pagina aparte a las otras dos, primero se abre la lista total de reservas y una vez se le de a gestionar te sale la otra pagina que es la reservaIndividual
